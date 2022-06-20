@@ -1,2 +1,2 @@
 #Not adding dbsql
-/db.sqlite3
+.db.sqlite3

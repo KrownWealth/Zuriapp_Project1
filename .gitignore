@@ -1,5 +1,5 @@
-#Not adding dbsql
-/db.sqlite3
+#Not adding dbsqlite to the push contents
+.db.sqlite3
 
 
 
